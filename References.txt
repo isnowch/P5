@@ -1,0 +1,6 @@
+声明：我在此确认，所提交的项目为我的工作成果，其中引用的信息出自网站、书籍、论坛、博客文章和 GitHub 代码库等
+
+参考文献：
+维基百科“安然公司”词条  http://wikipedia.hhdgoogle.com/wiki/%E5%AE%89%E7%84%B6%E5%85%AC%E5%8F%B8
+http://scikit-learn.org
+Pang-Ning Tan, Michael Steinbach and Vipin Kumar, Introduction To Data Mining, Pearson Education, 2007
